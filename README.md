@@ -1,1 +1,1 @@
-![Top Languages](./profile/top-langs.svg)
+![Top Languages](./profile/cards/top-langs.svg)
